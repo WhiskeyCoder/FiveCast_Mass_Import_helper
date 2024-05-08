@@ -1,4 +1,4 @@
-# FiveCast Onyx Mass Twitter Account Tool
+# FiveCast Onyx Mass Import Helper Tool
 
 ## Overview
 
